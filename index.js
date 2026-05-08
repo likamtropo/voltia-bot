@@ -4,7 +4,7 @@ const app = express().use(express.json());
 
 const token = "EAAS6iyIaPUMBRULE71Jmowm2wFwcZAGHOniXdKXAxbYzZBmGTswhxKMwPDKlyyG58T4i0F1NZC7bRsnXSeIplHYAcMw1bZAcz9LQ78zYIoqd9UQm7EYQQhckjRQS6JDTTh24ZAtMalJkjkMep2qEZCqDl73ZByhwk5vY4hIen4YlLJZASirVfzKTHUk12IwZA0V6LMFtcdiXByKsZCgKU12d3hjxI8ewUYLw9ZBkhRuluZC5SBLT4r0OciM3s0MSZBY4Q9XrMuLOyu6qCKV4q3RZCL2gZDZD";
 const phoneId = "1134346533090150";
-const verifyToken = "voltia_madrid_2026";
+const verifyToken = "no_tengo_2023";
 
 // Validación de Webhook para Meta
 app.get("/webhook", (req, res) => {
