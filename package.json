@@ -1,0 +1,12 @@
+{
+  "name": "voltia-bot",
+  "version": "1.0.0",
+  "description": "Bot de WhatsApp para Voltia Madrid",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
