@@ -2,7 +2,7 @@ const express = require("express");
 const axios = require("axios"); // Necesitamos esto para enviar mensajes
 const app = express().use(express.json());
 
-const token = "EAAS6iyIaPUMBRULE71Jmowm2wFwcZAGHOniXdKXAxbYzZBmGTswhxKMwPDKlyyG58T4i0F1NZC7bRsnXSeIplHYAcMw1bZAcz9LQ78zYIoqd9UQm7EYQQhckjRQS6JDTTh24ZAtMalJkjkMep2qEZCqDl73ZByhwk5vY4hIen4YlLJZASirVfzKTHUk12IwZA0V6LMFtcdiXByKsZCgKU12d3hjxI8ewUYLw9ZBkhRuluZC5SBLT4r0OciM3s0MSZBY4Q9XrMuLOyu6qCKV4q3RZCL2gZDZD";
+const token = "EAAS6iyIaPUMBRXkKoWllob5t7TzxgiuxP82vUGdQamDmuqR1bmRha314EZAb0UZA3c4CZCqVfJqAXZBT9yNxDcPpZCWiLQsy91ZC15tLlCwNAOeOJZCAQMLPAkZA35wM0ZAgSbqIN7zzpDWjbFAsWA3vYGX6mwaWr1TpfX4tuTkF2u1FpfCJFxCSHUZCfdzzsupsrQnLCZBya1ZBFil15js97J4UcnDWWsnwqGBPfakx6z0ZBAnBGKlZCEQ4D47rNAd2iLd68mefP62jNt0qOwrgwq1QZDZD";
 const phoneId = "1134346533090150";
 const verifyToken = "no_tengo_2026";
 
